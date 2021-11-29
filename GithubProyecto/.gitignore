@@ -1,1 +1,4 @@
 /bin/
+
+# Ignora los archivos .proyect
+*.proyect
